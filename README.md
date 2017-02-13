@@ -1,5 +1,4 @@
 <h1> Jack Northall </h1>
-enter here company related info#
 
 I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge of this industry. I have always had a passion for problem solving and understanding mechanics behind machines, this stemmed from my early introduction into gaming which is an industry I hope to move into in the future.
 
