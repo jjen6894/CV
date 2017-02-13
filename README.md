@@ -1,19 +1,22 @@
 <h1> Jack Northall </h1>
 
-I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge of this industry. I have always had a passion for problem solving and understanding mechanics behind machines, this stemmed from my early introduction into gaming which is an industry I hope to move into in the future.
+I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge of this industry. I have always had a passion for problem solving and understanding mechanics behind machines, this stemmed from my early introduction into gaming and therefore the computers mind.
 
 <h1> Skills </h1>
 
-<h3> Communication </h3> 
-I have always felt that teamwork will exceed an individuals performance, my years in various school sports team where we were always the underdogs, or the local sunday league side I previously captained all of this experience has allowed me to understand that a well built 'team' is where you have a lot of different qualities brought together by a strong leader and communicator.
+<h6> Communication </h6> 
+I have always felt that teamwork will exceed an individuals performance, my years in various school sports team where we were always the underdogs being a much smaller school, or the local sunday league side I previously captained all of this experience has allowed me to understand that a well built 'team' is where you have a lot of different qualities brought together by a strong leader and communicator.
 
-<h3>Analysis</h3>
+<h6>Analysis</h6>
 My years in economics and time at makers have enabled me to further my understanding of what is required of me for a task, breaking said task down and organising my time to acheive success. I have always enjoyed learning new things and would like this to continue in the future. I am always analysing day to day activities thinking of small changes that would improve the world I live in.
 
-<h3> Patience </h3>
-Although I am proud to say that I pick up new skills and technologies very quickly, the strongest skill you can have is patience for when it doesn't come to plan, to make decisions under pressure without panicking and to keep persevering when it doesn't go your way. This skill has become even strong with my time at makers as I can double my knowledge daily but when a problem occurs you musn't panick but use yours skills and resources to break down the problem logically and therefore the solution.
+<h6> Composure </h6>
+Although I am proud to say that I pick up new skills and technologies very quickly, the strongest skill you can have is compusure for when it doesn't come to plan, which when writing code can frequently happened, to make decisions under pressure without giving up and to keep persevering when it doesn't go your way. This skill has become even strong with my time at makers as I have had to learn two languages, to a good understanding and further frameworks in my final project in rails.
 
-<h3>Education</h3>
+<h6> Competitve </h6> 
+Not one to lose, I rarely allow a problem to better me, having played sports my whole life, whether it football, rugby or tennis. This improves my coding as there is endless ways to improve just like those sports, always taking in new techniques and watching those that are better than myself, allows me to improve constantly. 
+
+<h1>Education</h1>
 Software \developer Bootcamp: Makers Academy (London, UK)
 16 week program / 10% acceptance rate / Coding the right way. 
 
@@ -27,4 +30,4 @@ Vision Accendo
 Working nights is a different place, especially in the royal opera house in covent garden, installing lights was another new industry and gave me an insight into the complications of working physically day to day along with a different side to the world i rarely seen. 
 
 <h3> Interests </h3> 
-Before makers my previous interest were football, sports in general, gaming and new technologies. Since makers it has awoken a passion for code and intertwining that with my other passions. 
+My main interest include sports, gaming and code. I like to break down and understanding the core reasoning behind how things work, how Leicster can win the league with such a weaken side, or how a game's AI works.  
