@@ -1,6 +1,6 @@
 <h1> Jack Northall </h1>
 
-I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge of this industry. I have always had a passion for problem solving and understanding mechanics behind machines, this stemmed from my early introduction into gaming and therefore the computers mind.
+I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have always had a passion for problem solving and understanding mechanics behind machines, this stemmed from my early introduction into gaming and therefore the computers mind.
 
 <h1> Skills </h1>
 
@@ -8,7 +8,7 @@ I'm looking for a Full Stack Junior Developer role, where I can keep furthering 
 I have always felt that teamwork will exceed an individuals performance, my years in various school sports team where we were always the underdogs being a much smaller school, or the local sunday league side I previously captained all of this experience has allowed me to understand that a well built 'team' is where you have a lot of different qualities brought together by a strong leader and communicator.
 
 <h6>Analysis</h6>
-My years in economics and time at makers have enabled me to further my understanding of what is required of me for a task, breaking said task down and organising my time to acheive success. I have always enjoyed learning new things and would like this to continue in the future. I am always analysing day to day activities thinking of small changes that would improve the world I live in.
+My years in economics and time at makers have enabled me to further my understanding of what is required of me for a task, breaking said task down and organising my time to acheive success. I have always enjoyed learning new things and would like this to continue. I am always analysing day to day activities thinking of small changes that would improve the world I live in to make it more efficient.
 
 <h6> Composure </h6>
 Although I am proud to say that I pick up new skills and technologies very quickly, the strongest skill you can have is compusure for when it doesn't come to plan, which when writing code can frequently happened, to make decisions under pressure without giving up and to keep persevering when it doesn't go your way. This skill has become even strong with my time at makers as I have had to learn two languages, to a good understanding and further frameworks in my final project in rails.
