@@ -19,11 +19,14 @@ At “Makers” we were often give tight deadlines to produce new development pr
 I love challenges whether they are in sport or coding. I believe that being competitive means that you should always be looking to improve and learn new skills. I like playing against better players in sport or working with people that have different skill sets than myself as it allows me to constantly improve.
 
 <h1>Education</h1>
+
 Software Developer Bootcamp: Makers Academy (London, UK) 16 week program / 10% acceptance rate / “Coding the right way”.
 
 BA in Economics: Nottingham Trent University. 3 year degree covering micro and macro economics, especially enjoyed studying how new and emerging technologies impacted the economy. 
 
-<Working History> 
+<h1>Employment</h1>
+
+
 GBK: Grill Chef: 4 months. Skills, teamwork and performing under pressure.
 
 Started as a kitchen hand and quickly promoted Grill Chef. I learnt the importance of good team work to make sure the kitchen ran smoothly, all meals were well cooked, complete and delivered on time, in a highly pressurised environment.
