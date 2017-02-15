@@ -1,33 +1,36 @@
 <h1> Jack Northall </h1>
 
-I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have always had a passion for problem solving and understanding mechanics behind machines, this stemmed from my early introduction into gaming and therefore the computers mind.
+I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have a passion for problem solving and logical thinking, for instance as a young teenager I loved trying to find innovative ways to work around the logic of gaming systems to increase my progress.
 
 <h1> Skills </h1>
 
 <h6> Communication </h6> 
-I have always felt that teamwork will exceed an individuals performance, my years in various school sports team where we were always the underdogs being a much smaller school, or the local sunday league side I previously captained all of this experience has allowed me to understand that a well built 'team' is where you have a lot of different qualities brought together by a strong leader and communicator.
+I have always enjoyed playing team sports. I was captain of my Sunday league football team. A key role for the captain is to harness the different qualities within your team and get the best out of each individual through clear and concise communications. During my time as captain, our team were promoted twice and won the Surrey Youth Cup. I believe this experience stands me in good stead in a business environment.
 
 <h6>Analysis</h6>
-My years in economics and time at makers have enabled me to further my understanding of what is required of me for a task, breaking said task down and organising my time to acheive success. I have always enjoyed learning new things and would like this to continue. I am always analysing day to day activities thinking of small changes that would improve the world I live in to make it more efficient.
+Studying economics at University taught me how to manipulate large datasets, break down a project in to smaller manageable tasks to ensure that they were completed on time. This experience certainly helped when completing development projects at “Makers”.
 
 <h6> Composure </h6>
-Although I am proud to say that I pick up new skills and technologies very quickly, the strongest skill you can have is compusure for when it doesn't come to plan, which when writing code can frequently happened, to make decisions under pressure without giving up and to keep persevering when it doesn't go your way. This skill has become even strong with my time at makers as I have had to learn two languages, to a good understanding and further frameworks in my final project in rails.
+Whilst I am able to pick up new skills and technologies quickly, I think one of my best strengths is to keep a clear head when under pressure.
+
+At “Makers” we were often give tight deadlines to produce new development projects, using newly learned coding languages and frameworks. It was essential when completing these projects to have a plan and follow it without getting stressed, in most instances the projects were being undertaken by a team of students and my sports and University experience really helped in making sure we all knew what tasks we were responsible for and to support each other if anyone fell behind so we could work successfully as a team.
 
 <h6> Competitve </h6> 
-Not one to lose, I rarely allow a problem to better me, having played sports my whole life, whether it football, rugby or tennis. This improves my coding as there is endless ways to improve just like those sports, always taking in new techniques and watching those that are better than myself, allows me to improve constantly. 
+I love challenges whether they are in sport or coding. I believe that being competitive means that you should always be looking to improve and learn new skills. I like playing against better players in sport or working with people that have different skill sets than myself as it allows me to constantly improve.
 
 <h1>Education</h1>
-Software \developer Bootcamp: Makers Academy (London, UK)
-16 week program / 10% acceptance rate / Coding the right way. 
+Software Developer Bootcamp: Makers Academy (London, UK) 16 week program / 10% acceptance rate / “Coding the right way”.
 
-BA in Economics: Nottingham Trent University.
-3 year Economics course, Technologies advancements and their effect on the economy. 
+BA in Economics: Nottingham Trent University. 3 year degree covering micro and macro economics, especially enjoyed studying how new and emerging technologies impacted the economy. 
 
 <Working History> 
-GBK Grill Chef: 4 months
-Skills, working in a team and learning a new industry and skills that previously escaped me, rising through the ranks quickly as i looked to improve myself and the team in the short time i was there.
-Vision Accendo 
-Working nights is a different place, especially in the royal opera house in covent garden, installing lights was another new industry and gave me an insight into the complications of working physically day to day along with a different side to the world i rarely seen. 
+GBK: Grill Chef: 4 months. Skills, teamwork and performing under pressure.
+
+Started as a kitchen hand and quickly promoted Grill Chef. I learnt the importance of good team work to make sure the kitchen ran smoothly, all meals were well cooked, complete and delivered on time, in a highly pressurised environment.
+
+Vision Accendo Ltd: Lighting Installation Apprentice; 6 Months. Skills, supporting a team of engineers to remove old lighting with latest LED technology in complex and demanding building infrastructures.
+
+Worked nights in a variety of buildings, helping engineers install large lighting projects. The most demanding project was helping in the fit out of a complete new lighting system at The Royal Opera House in Covent Garden. This is a large listed building and we had to work around the various rehearsal and public performances that were being staged at the same time as the fit out. Working within the very specific time scales provided by the management at the Opera House and respecting the unique aspects of such an iconic building meant careful planning and 100% adherence to this plan. The work was physically demanding but completing the project on time and to the client’s requirements was very satisfying.
 
 <h3> Interests </h3> 
-My main interest include sports, gaming and code. I like to break down and understanding the core reasoning behind how things work, how Leicster can win the league with such a weaken side, or how a game's AI works.  
+My main interests are watching and playing football, playing squash and tennis, all types of online gaming and coding.
