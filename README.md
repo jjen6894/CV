@@ -27,13 +27,13 @@ BA in Economics: Nottingham Trent University. 3 year degree covering micro and m
 <h1>Employment</h1>
 
 
-GBK: Grill Chef: 4 months. Skills, teamwork and performing under pressure.
+<b><u>GBK:</u></b> Grill Chef: 4 months. Skills, teamwork and performing under pressure.
 
 Started as a kitchen hand and quickly promoted Grill Chef. I learnt the importance of good team work to make sure the kitchen ran smoothly, all meals were well cooked, complete and delivered on time, in a highly pressurised environment.
 
-Vision Accendo Ltd: Lighting Installation Apprentice; 6 Months. Skills, supporting a team of engineers to remove old lighting with latest LED technology in complex and demanding building infrastructures.
+<b><u>Vision Accendo Ltd:</u></b> Lighting Installation Apprentice; 6 Months. Skills, supporting a team of engineers to remove old lighting with latest LED technology in complex and demanding building infrastructures.
 
 Worked nights in a variety of buildings, helping engineers install large lighting projects. The most demanding project was helping in the fit out of a complete new lighting system at The Royal Opera House in Covent Garden. This is a large listed building and we had to work around the various rehearsal and public performances that were being staged at the same time as the fit out. Working within the very specific time scales provided by the management at the Opera House and respecting the unique aspects of such an iconic building meant careful planning and 100% adherence to this plan. The work was physically demanding but completing the project on time and to the client’s requirements was very satisfying.
 
 <h3> Interests </h3> 
-My main interests are watching and playing football, playing squash and tennis, all types of online gaming and coding.
+My main interests are watching and playing football, playing squash and tennis, gaming and coding.
