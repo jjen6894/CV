@@ -1,6 +1,6 @@
 <h1> Jack Northall </h1>
 
-I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have a passion for problem solving and logical thinking, for instance as a young teenager I loved trying to find innovative ways to work around the logic of gaming systems to increase my progress.
+I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have a passion for problem solving and logical thinking, for instance as a young teenager I have loved understanding gaming logic, how the computer works and weaknesses in it's structure. 
 
 <h1> Skills </h1>
 
