@@ -1,4 +1,12 @@
-<h1> Jack Northall </h1>
+<h1> Jack Northall </h1> 
+Contact details;
+email: jack_6894@hotmail.com  
+Mob: 07702602704
+Address:
+134 Quebec Quay
+Liverpool
+L3 4ER
+
 
 I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have a passion for problem solving and logical thinking, for instance as a young teenager I have loved understanding gaming logic, how the computer works and weaknesses in it's structure. 
 
