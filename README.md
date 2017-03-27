@@ -1,47 +1,78 @@
-<h1> Jack Northall </h1> 
-Contact details;
-email: jack_6894@hotmail.com  
-Mob: 07702602704
-Address:
-134 Quebec Quay
-Liverpool
-L3 4ER
+Jack Northall
+Cedar Lodge, Ellesmere road, Weybridge KT13 0HZ
+Mobile number: 07702 602704
+Email: jack_6894@hotmail.com
+Personal Details
+Date of Birth: 6th August 1994
+Driving Licence: Full UK
 
+Introduction
+At Nottingham University, I studied micro and macroeconomics and especially
+enjoyed studying how new and emerging technologies impacted the economy.
+After leaving University I considered where I wanted to develop my career. Given my
+skill set and interests I felt that training as a software developer was something that
+really interested me. I then took on a variety of jobs, regardless of what they were to
+finance joining Makers Academy on their “Coding the Right Way” course. This is a
+16-week boot camp where we covered a range of languages and disciplines such
+as: - JavaScript, Ruby, Python, HAML, HTML, CSS, Bootstrap, Unit testing, Test
+driven development, Best Practices and Pair-Programming.
+At Makers Academy I went from a being a novice coder, using Ruby to create a
+simple oyster card model to building an application from scratch within 10 weeks: -
+https://clothes-swapping.herokuapp.com/
+I preferred back-end design, prior to the course, however, I have decided to
+challenge myself further and practiced front end design and UI. https://zombiesurvival-guide.herokuapp.com.
 
-I'm looking for a Full Stack Junior Developer role, where I can keep furthering my knowledge. I have a passion for problem solving and logical thinking, for instance as a young teenager I have loved understanding gaming logic, how the computer works and weaknesses in it's structure. 
-
-<h1> Skills </h1>
-
-<h6> Communication </h6> 
-I have always enjoyed playing team sports. I was captain of my Sunday league football team. A key role for the captain is to harness the different qualities within your team and get the best out of each individual through clear and concise communications. During my time as captain, our team were promoted twice and won the Surrey Youth Cup. I believe this experience stands me in good stead in a business environment.
-
-<h6>Analysis</h6>
-Studying economics at University taught me how to manipulate large datasets, break down a project in to smaller manageable tasks to ensure that they were completed on time. This experience certainly helped when completing development projects at “Makers”.
-
-<h6> Composure </h6>
-Whilst I am able to pick up new skills and technologies quickly, I think one of my best strengths is to keep a clear head when under pressure.
-
-At “Makers” we were often give tight deadlines to produce new development projects, using newly learned coding languages and frameworks. It was essential when completing these projects to have a plan and follow it without getting stressed, in most instances the projects were being undertaken by a team of students and my sports and University experience really helped in making sure we all knew what tasks we were responsible for and to support each other if anyone fell behind so we could work successfully as a team.
-
-<h6> Competitve </h6> 
-I love challenges whether they are in sport or coding. I believe that being competitive means that you should always be looking to improve and learn new skills. I like playing against better players in sport or working with people that have different skill sets than myself as it allows me to constantly improve.
-
-<h1>Education</h1>
-
-Software Developer Bootcamp: Makers Academy (London, UK) 16 week program / 10% acceptance rate / “Coding the right way”.
-
-BA in Economics: Nottingham Trent University. 3 year degree covering micro and macro economics, especially enjoyed studying how new and emerging technologies impacted the economy. 
-
-<h1>Employment</h1>
-
-
-<b><u>GBK:</u></b> Grill Chef: 4 months. Skills, teamwork and performing under pressure.
-
-Started as a kitchen hand and quickly promoted Grill Chef. I learnt the importance of good team work to make sure the kitchen ran smoothly, all meals were well cooked, complete and delivered on time, in a highly pressurised environment.
-
-<b><u>Vision Accendo Ltd:</u></b> Lighting Installation Apprentice; 6 Months. Skills, supporting a team of engineers to remove old lighting with latest LED technology in complex and demanding building infrastructures.
-
-Worked nights in a variety of buildings, helping engineers install large lighting projects. The most demanding project was helping in the fit out of a complete new lighting system at The Royal Opera House in Covent Garden. This is a large listed building and we had to work around the various rehearsal and public performances that were being staged at the same time as the fit out. Working within the very specific time scales provided by the management at the Opera House and respecting the unique aspects of such an iconic building meant careful planning and 100% adherence to this plan. The work was physically demanding but completing the project on time and to the client’s requirements was very satisfying.
-
-<h3> Interests </h3> 
-My main interests are watching and playing football, playing squash and tennis, gaming and coding.
+One of the key lessons I learnt from Makers Academy is that whilst it’s important to
+have a good understanding of specific technologies and languages I must also be
+prepared to embrace and learn new technologies as they emerge and become
+important business tools.
+I'm looking for a Full Stack Junior Developer role, where I can keep expanding my
+coding skills and technical knowledge.
+Education
+2016 - 2017 Makers Academy- London
+16 - Week Bootcamp “Coding the Right Way”
+2012 - 2015 Nottingham Trent University
+BA Economics
+2010 - 2012 Esher College
+A-levels: History (B) Maths (B) Economics (B)
+AS-level: Philosophy (C)
+1998 - 2010 Claremont Fan Court School
+8 GCSE passes at grade C or above.
+Work Experience
+December 2015-June 2016
+Vision Accendo: Lighting Installation Apprentice
+Here I supported a team of engineers to remove old lighting with latest LED
+technology in complex and demanding building infrastructures.
+Worked nights in a variety of buildings, helping engineers install large lighting
+projects. The most demanding project was helping in the fit out of a complete new
+lighting system at The Royal Opera House in Covent Garden. This is a large listed
+building and we had to work around the various rehearsal and public performances
+that were being staged at the same time as the fit out. Working within the very
+specific time scales provided by the management at the Opera House and
+respecting the unique aspects of such an iconic building meant careful planning and
+100% adherence to this plan. The work was physically demanding but completing
+the project on time and to the client’s requirements was very satisfying.
+June 2015 – November 2015
+GBK: Grill Chef.
+Started as a kitchen hand and quickly promoted Grill Chef. I learnt the importance of
+good team work to make sure the kitchen ran smoothly, all meals were well cooked,
+complete and delivered on time, in a high pressurised environment.
+Skills
+Communication
+I have always enjoyed playing team sports. I was captain of my Sunday league
+football team. A key role for the captain is to harness the different qualities within
+your team and get the best out of everyone through clear and concise
+communications. During my time as captain, our team were promoted twice and won
+the Surrey Youth Cup. I believe this experience stands me in good stead in a
+business environment.
+Analysis
+Studying Economics at University taught me how to manipulate large datasets, break
+down a project in to smaller manageable tasks to ensure that they were completed
+on time. This experience certainly helped when completing development projects at
+“Makers”.
+Competitive
+I love challenges whether they are in sport or coding. I believe that being competitive
+means that you should always be looking to improve and learn new skills. I like
+playing against better players in sport or working with people that have different skill
+sets than myself as it allows me to constantly improve.
+References Available on request.
