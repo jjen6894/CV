@@ -1,13 +1,11 @@
 <h1>Jack Northall</h1>
-<p>
-Cedar Lodge, Ellesmere road, Weybridge KT13 0HZ
-Mobile number: 07702 602704
-Email: jack_6894@hotmail.com
-</p>
 <h1>Personal Details </h1>
-<p>Date of Birth: 6th August 1994
-Driving Licence: Full UK
-</p>
+<p>Cedar Lodge,<br> Ellesmere road,<br> Weybridge, <br> KT13 0HZ <br>
+Mobile number: 07702 602704 <br>
+Email: jack_6894@hotmail.com <br>
+Date of Birth: 6th August 1994 <br>
+Driving Licence: Full UK <br>
+
 <h1>Introduction</h1>
 <p>
 At Nottingham University, I studied micro and macroeconomics and especially
@@ -22,14 +20,8 @@ as: - JavaScript, Ruby, Python, HAML, HTML, CSS, Bootstrap, Unit testing, Test
 driven development, Best Practices and Pair-Programming.
 At Makers Academy I went from a being a novice coder, using Ruby to create a
 simple oyster card model to building an application from scratch within 10 weeks: -</p>
-<strong>2 week project </strong> https://clothes-swapping.herokuapp.com/
-<strong>1 week project</strong>https://zombiesurvival-guide.herokuapp.com.
-<p>
-One of the key lessons I learnt from Makers Academy is that whilst it’s important to
-have a good understanding of specific technologies and languages I must also be
-prepared to embrace and learn new technologies as they emerge and become
-important business tools.
-</p>
+<strong>Final project: </strong> https://clothes-swapping.herokuapp.com/
+<strong>1 week project: </strong> https://zombiesurvival-guide.herokuapp.com 
 <h2>Education</h2>
 <strong>2016 - 2017 Makers Academy- London</strong>
 <p>16 - Week Bootcamp “Coding the Right Way”</p>
@@ -69,7 +61,7 @@ I have always enjoyed playing team sports. I was captain of my Sunday league
 football team. Having always preffered to work as a collective I found this was excelled through my time at Makers through pair programming where communication was key in understanding the subjects we came across and making sure both coders contributed equally.</p>
 <strong>
 Analysis
-</strong>
+</strong><p>
 Studying Economics at University taught me how to manipulate large datasets, break
 down a project in to smaller manageable tasks to ensure that they were completed
 on time. This experience certainly helped when completing development projects at
