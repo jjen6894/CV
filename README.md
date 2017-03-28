@@ -1,11 +1,5 @@
 <h1>Jack Northall</h1>
-<h1>Personal Details </h1>
-<p>Cedar Lodge,<br> Ellesmere road,<br> Weybridge, <br> KT13 0HZ <br>
-Mobile number: 07702 602704 <br>
-Email: jack_6894@hotmail.com <br>
-Date of Birth: 6th August 1994 <br>
-Driving Licence: Full UK <br>
-
+Driving Licence: Full UK 
 <h1>Introduction</h1>
 <p>
 At Nottingham University, I studied micro and macroeconomics and especially
@@ -13,6 +7,7 @@ enjoyed studying how new and emerging technologies impacted the economy.
 After leaving University I considered where I wanted to develop my career. Given my
 skill set and interests I felt that training as a software developer was something that
 really interested me. 
+
 I then took on a variety of jobs, regardless of what they were to
 finance joining Makers Academy on their “Coding the Right Way” course. This is a
 16-week boot camp where we covered a range of languages and disciplines such
@@ -20,8 +15,11 @@ as: - JavaScript, Ruby, Python, HAML, HTML, CSS, Bootstrap, Unit testing, Test
 driven development, Best Practices and Pair-Programming.
 At Makers Academy I went from a being a novice coder, using Ruby to create a
 simple oyster card model to building an application from scratch within 10 weeks: -</p>
-<strong>Final project: </strong> https://clothes-swapping.herokuapp.com/
-<strong>1 week project: </strong> https://zombiesurvival-guide.herokuapp.com 
+<h2> Projects </h2>
+|Project| Heroku | Github |
+| ---- | ----- | ---- | 
+| Swap til you drop |  https://clothes-swapping.herokuapp.com/ | https://github.com/keomony/clothes_swapping |
+| Zombie Survial Guide | https://zombiesurvival-guide.herokuapp.com | https://github.com/Chrixs/zombie_survival_guide |
 <h2>Education</h2>
 <strong>2016 - 2017 Makers Academy- London</strong>
 <p>16 - Week Bootcamp “Coding the Right Way”</p>
