@@ -16,6 +16,7 @@ driven development, Best Practices and Pair-Programming.
 At Makers Academy I went from a being a novice coder, using Ruby to create a
 simple oyster card model to building an application from scratch within 10 weeks: -</p>
 <h2> Projects </h2>
+
 |Project| Heroku | Github |
 | ---- | ----- | ---- | 
 | Swap til you drop |  https://clothes-swapping.herokuapp.com/ | https://github.com/keomony/clothes_swapping |
