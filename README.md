@@ -1,5 +1,4 @@
 <h1>Jack Northall</h1>
-Driving Licence: Full UK 
 <h1>Introduction</h1>
 <p>
 At Nottingham University, I studied micro and macroeconomics and especially
@@ -72,3 +71,4 @@ Competitive
 I love challenges whether they are in sport or coding. I believe that being competitive means that you should always be looking to improve and learn new skills. I like playing against better opponents in sport or working with people that have different skill
 sets than myself as it allows me to constantly improve.
 </p>
+Driving Licence: Full UK 
